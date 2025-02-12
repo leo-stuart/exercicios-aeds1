@@ -7,6 +7,6 @@ int main()
     printf("Digite sua idade: ");
     scanf("%i", &idade);
     num_dias = idade * 365;
-    printf("Voce viveu %i dias\n", num_dias);
+    printf("Voce viveu %i dias, parabens!\n", num_dias);
     return 0;
 }
